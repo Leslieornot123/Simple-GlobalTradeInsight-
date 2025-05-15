@@ -1,0 +1,502 @@
+{
+  "USA": {
+    "market_size": "$52B",
+    "growth_rate": "19%",
+    "ease_of_business": "Low",
+    "risk_level": "Low",
+    "recommendations": [
+      "Navigate local regulations and compliance",
+      "Consider local production facilities",
+      "Focus on major economic centers in USA",
+      "Build relationships with local distributors"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 9,
+        "factors": {
+          "Stability": 1,
+          "Regulations": 7,
+          "Trade Policies": 4,
+          "Corruption": 3
+        }
+      },
+      "Economic": {
+        "score": 8,
+        "factors": {
+          "GDP Growth": 7,
+          "Inflation": 5,
+          "Exchange Rate": 8,
+          "Debt Levels": 6
+        }
+      },
+      "Market": {
+        "score": 2,
+        "factors": {
+          "Competition": 3,
+          "Demand": 7,
+          "Pricing": 10,
+          "Market Size": 5
+        }
+      },
+      "Operational": {
+        "score": 8,
+        "factors": {
+          "Infrastructure": 9,
+          "Labor": 5,
+          "Supply Chain": 10,
+          "Technology": 1
+        }
+      }
+    }
+  },
+  "China": {
+    "market_size": "$88B",
+    "growth_rate": "20%",
+    "ease_of_business": "High",
+    "risk_level": "High",
+    "recommendations": [
+      "Adapt products to local market preferences",
+      "Focus on major economic centers in China",
+      "Navigate local regulations and compliance",
+      "Consider joint ventures with local companies"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 3,
+        "factors": {
+          "Stability": 8,
+          "Regulations": 8,
+          "Trade Policies": 6,
+          "Corruption": 9
+        }
+      },
+      "Economic": {
+        "score": 10,
+        "factors": {
+          "GDP Growth": 5,
+          "Inflation": 3,
+          "Exchange Rate": 7,
+          "Debt Levels": 3
+        }
+      },
+      "Market": {
+        "score": 5,
+        "factors": {
+          "Competition": 6,
+          "Demand": 10,
+          "Pricing": 8,
+          "Market Size": 1
+        }
+      },
+      "Operational": {
+        "score": 8,
+        "factors": {
+          "Infrastructure": 3,
+          "Labor": 5,
+          "Supply Chain": 6,
+          "Technology": 5
+        }
+      }
+    }
+  },
+  "Germany": {
+    "market_size": "$53B",
+    "growth_rate": "14%",
+    "ease_of_business": "Medium",
+    "risk_level": "Low",
+    "recommendations": [
+      "Build relationships with local distributors",
+      "Consider joint ventures with local companies",
+      "Focus on major economic centers in Germany",
+      "Establish local partnership in Germany"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 10,
+        "factors": {
+          "Stability": 4,
+          "Regulations": 8,
+          "Trade Policies": 1,
+          "Corruption": 1
+        }
+      },
+      "Economic": {
+        "score": 5,
+        "factors": {
+          "GDP Growth": 7,
+          "Inflation": 4,
+          "Exchange Rate": 4,
+          "Debt Levels": 8
+        }
+      },
+      "Market": {
+        "score": 4,
+        "factors": {
+          "Competition": 8,
+          "Demand": 3,
+          "Pricing": 3,
+          "Market Size": 5
+        }
+      },
+      "Operational": {
+        "score": 6,
+        "factors": {
+          "Infrastructure": 3,
+          "Labor": 8,
+          "Supply Chain": 1,
+          "Technology": 1
+        }
+      }
+    }
+  },
+  "Japan": {
+    "market_size": "$70B",
+    "growth_rate": "19%",
+    "ease_of_business": "Medium",
+    "risk_level": "Medium",
+    "recommendations": [
+      "Adapt products to local market preferences",
+      "Navigate local regulations and compliance",
+      "Build relationships with local distributors",
+      "Invest in local marketing and branding"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 6,
+        "factors": {
+          "Stability": 6,
+          "Regulations": 3,
+          "Trade Policies": 7,
+          "Corruption": 8
+        }
+      },
+      "Economic": {
+        "score": 3,
+        "factors": {
+          "GDP Growth": 6,
+          "Inflation": 10,
+          "Exchange Rate": 7,
+          "Debt Levels": 5
+        }
+      },
+      "Market": {
+        "score": 2,
+        "factors": {
+          "Competition": 8,
+          "Demand": 2,
+          "Pricing": 10,
+          "Market Size": 4
+        }
+      },
+      "Operational": {
+        "score": 4,
+        "factors": {
+          "Infrastructure": 2,
+          "Labor": 1,
+          "Supply Chain": 5,
+          "Technology": 7
+        }
+      }
+    }
+  },
+  "UK": {
+    "market_size": "$20B",
+    "growth_rate": "11%",
+    "ease_of_business": "High",
+    "risk_level": "High",
+    "recommendations": [
+      "Invest in local marketing and branding",
+      "Build relationships with local distributors",
+      "Consider local production facilities",
+      "Establish local partnership in UK"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 5,
+        "factors": {
+          "Stability": 5,
+          "Regulations": 2,
+          "Trade Policies": 5,
+          "Corruption": 10
+        }
+      },
+      "Economic": {
+        "score": 6,
+        "factors": {
+          "GDP Growth": 3,
+          "Inflation": 1,
+          "Exchange Rate": 7,
+          "Debt Levels": 5
+        }
+      },
+      "Market": {
+        "score": 6,
+        "factors": {
+          "Competition": 10,
+          "Demand": 3,
+          "Pricing": 8,
+          "Market Size": 8
+        }
+      },
+      "Operational": {
+        "score": 1,
+        "factors": {
+          "Infrastructure": 5,
+          "Labor": 6,
+          "Supply Chain": 3,
+          "Technology": 8
+        }
+      }
+    }
+  },
+  "France": {
+    "market_size": "$86B",
+    "growth_rate": "5%",
+    "ease_of_business": "Medium",
+    "risk_level": "Medium",
+    "recommendations": [
+      "Consider joint ventures with local companies",
+      "Focus on major economic centers in France",
+      "Navigate local regulations and compliance",
+      "Adapt products to local market preferences"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 9,
+        "factors": {
+          "Stability": 4,
+          "Regulations": 10,
+          "Trade Policies": 2,
+          "Corruption": 2
+        }
+      },
+      "Economic": {
+        "score": 10,
+        "factors": {
+          "GDP Growth": 3,
+          "Inflation": 8,
+          "Exchange Rate": 8,
+          "Debt Levels": 5
+        }
+      },
+      "Market": {
+        "score": 7,
+        "factors": {
+          "Competition": 4,
+          "Demand": 7,
+          "Pricing": 7,
+          "Market Size": 10
+        }
+      },
+      "Operational": {
+        "score": 3,
+        "factors": {
+          "Infrastructure": 6,
+          "Labor": 8,
+          "Supply Chain": 2,
+          "Technology": 9
+        }
+      }
+    }
+  },
+  "India": {
+    "market_size": "$92B",
+    "growth_rate": "9%",
+    "ease_of_business": "Medium",
+    "risk_level": "Low",
+    "recommendations": [
+      "Invest in local marketing and branding",
+      "Consider local production facilities",
+      "Build relationships with local distributors",
+      "Consider joint ventures with local companies"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 1,
+        "factors": {
+          "Stability": 2,
+          "Regulations": 1,
+          "Trade Policies": 8,
+          "Corruption": 3
+        }
+      },
+      "Economic": {
+        "score": 2,
+        "factors": {
+          "GDP Growth": 9,
+          "Inflation": 5,
+          "Exchange Rate": 5,
+          "Debt Levels": 8
+        }
+      },
+      "Market": {
+        "score": 1,
+        "factors": {
+          "Competition": 7,
+          "Demand": 6,
+          "Pricing": 5,
+          "Market Size": 2
+        }
+      },
+      "Operational": {
+        "score": 5,
+        "factors": {
+          "Infrastructure": 10,
+          "Labor": 7,
+          "Supply Chain": 1,
+          "Technology": 6
+        }
+      }
+    }
+  },
+  "Italy": {
+    "market_size": "$12B",
+    "growth_rate": "18%",
+    "ease_of_business": "Low",
+    "risk_level": "High",
+    "recommendations": [
+      "Adapt products to local market preferences",
+      "Consider local production facilities",
+      "Invest in local marketing and branding",
+      "Navigate local regulations and compliance"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 7,
+        "factors": {
+          "Stability": 1,
+          "Regulations": 8,
+          "Trade Policies": 5,
+          "Corruption": 2
+        }
+      },
+      "Economic": {
+        "score": 2,
+        "factors": {
+          "GDP Growth": 2,
+          "Inflation": 9,
+          "Exchange Rate": 10,
+          "Debt Levels": 5
+        }
+      },
+      "Market": {
+        "score": 10,
+        "factors": {
+          "Competition": 4,
+          "Demand": 2,
+          "Pricing": 10,
+          "Market Size": 1
+        }
+      },
+      "Operational": {
+        "score": 3,
+        "factors": {
+          "Infrastructure": 6,
+          "Labor": 2,
+          "Supply Chain": 3,
+          "Technology": 1
+        }
+      }
+    }
+  },
+  "Brazil": {
+    "market_size": "$64B",
+    "growth_rate": "9%",
+    "ease_of_business": "High",
+    "risk_level": "Low",
+    "recommendations": [
+      "Navigate local regulations and compliance",
+      "Build relationships with local distributors",
+      "Consider joint ventures with local companies",
+      "Focus on major economic centers in Brazil"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 2,
+        "factors": {
+          "Stability": 10,
+          "Regulations": 2,
+          "Trade Policies": 10,
+          "Corruption": 4
+        }
+      },
+      "Economic": {
+        "score": 3,
+        "factors": {
+          "GDP Growth": 4,
+          "Inflation": 2,
+          "Exchange Rate": 4,
+          "Debt Levels": 1
+        }
+      },
+      "Market": {
+        "score": 4,
+        "factors": {
+          "Competition": 10,
+          "Demand": 4,
+          "Pricing": 9,
+          "Market Size": 4
+        }
+      },
+      "Operational": {
+        "score": 2,
+        "factors": {
+          "Infrastructure": 5,
+          "Labor": 8,
+          "Supply Chain": 8,
+          "Technology": 8
+        }
+      }
+    }
+  },
+  "Canada": {
+    "market_size": "$53B",
+    "growth_rate": "20%",
+    "ease_of_business": "Medium",
+    "risk_level": "High",
+    "recommendations": [
+      "Navigate local regulations and compliance",
+      "Focus on major economic centers in Canada",
+      "Build relationships with local distributors",
+      "Consider local production facilities"
+    ],
+    "risk_factors": {
+      "Political": {
+        "score": 2,
+        "factors": {
+          "Stability": 6,
+          "Regulations": 2,
+          "Trade Policies": 3,
+          "Corruption": 4
+        }
+      },
+      "Economic": {
+        "score": 9,
+        "factors": {
+          "GDP Growth": 8,
+          "Inflation": 7,
+          "Exchange Rate": 6,
+          "Debt Levels": 10
+        }
+      },
+      "Market": {
+        "score": 4,
+        "factors": {
+          "Competition": 9,
+          "Demand": 1,
+          "Pricing": 8,
+          "Market Size": 8
+        }
+      },
+      "Operational": {
+        "score": 8,
+        "factors": {
+          "Infrastructure": 4,
+          "Labor": 3,
+          "Supply Chain": 10,
+          "Technology": 10
+        }
+      }
+    }
+  }
+}

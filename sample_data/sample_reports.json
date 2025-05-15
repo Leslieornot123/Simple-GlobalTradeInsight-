@@ -1,0 +1,72 @@
+{
+  "USA": {
+    "title": "Trade Analysis Report - USA 2023",
+    "executive_summary": "\n        This report provides a comprehensive analysis of trade opportunities in USA for 2023.\n        The market shows strong growth potential with increasing demand across multiple sectors.\n        Key opportunities include technology sector,\n        while challenges include regulatory compliance.\n        ",
+    "market_overview": "\n        USA's market is characterized by:\n        - GDP: $665B\n        - Population: 19M\n        - Main industries: Manufacturing, Agriculture, Services\n        - Key trading partners: Canada, UK, Russia\n        ",
+    "trade_analysis": "\n        Trade analysis for USA in 2023 shows:\n        - Total trade volume: $295B\n        - Trade balance: $27B\n        - Growth rate: 9%\n        - Main export sectors: Chemicals, Energy, Textiles\n        - Main import sectors: Machinery, Chemicals, Automotive\n        ",
+    "opportunities": "\n        Key opportunities in USA:\n        1. Growing demand in Chemicals sector\n        2. Favorable trade agreements with Canada\n        3. Government incentives for export-oriented businesses\n        4. Emerging market segments in urban areas\n        ",
+    "risks": "\n        Potential risks in USA:\n        1. Political instability\n        2. Competition\n        3. Infrastructure limitations\n        4. Market entry barriers\n        ",
+    "recommendations": [
+      "Consider local production facilities",
+      "Adapt products to local market preferences",
+      "Consider joint ventures with local companies",
+      "Invest in local marketing and branding"
+    ]
+  },
+  "China": {
+    "title": "Trade Analysis Report - China 2023",
+    "executive_summary": "\n        This report provides a comprehensive analysis of trade opportunities in China for 2023.\n        The market shows strong growth potential with increasing demand across multiple sectors.\n        Key opportunities include manufacturing sector,\n        while challenges include infrastructure.\n        ",
+    "market_overview": "\n        China's market is characterized by:\n        - GDP: $159B\n        - Population: 35M\n        - Main industries: Manufacturing, Services, Agriculture\n        - Key trading partners: Saudi Arabia, Japan, UK\n        ",
+    "trade_analysis": "\n        Trade analysis for China in 2023 shows:\n        - Total trade volume: $402B\n        - Trade balance: $-24B\n        - Growth rate: 6%\n        - Main export sectors: Machinery, Electronics, Chemicals\n        - Main import sectors: Agriculture, Machinery, Electronics\n        ",
+    "opportunities": "\n        Key opportunities in China:\n        1. Growing demand in Energy sector\n        2. Favorable trade agreements with India\n        3. Government incentives for export-oriented businesses\n        4. Emerging market segments in rural markets\n        ",
+    "risks": "\n        Potential risks in China:\n        1. Political instability\n        2. Competition\n        3. Infrastructure limitations\n        4. Local competition\n        ",
+    "recommendations": [
+      "Focus on major economic centers in China",
+      "Build relationships with local distributors",
+      "Invest in local marketing and branding",
+      "Adapt products to local market preferences"
+    ]
+  },
+  "Germany": {
+    "title": "Trade Analysis Report - Germany 2023",
+    "executive_summary": "\n        This report provides a comprehensive analysis of trade opportunities in Germany for 2023.\n        The market shows strong growth potential with increasing demand across multiple sectors.\n        Key opportunities include manufacturing sector,\n        while challenges include market competition.\n        ",
+    "market_overview": "\n        Germany's market is characterized by:\n        - GDP: $553B\n        - Population: 48M\n        - Main industries: Agriculture, Manufacturing, Technology\n        - Key trading partners: India, Switzerland, Canada\n        ",
+    "trade_analysis": "\n        Trade analysis for Germany in 2023 shows:\n        - Total trade volume: $197B\n        - Trade balance: $48B\n        - Growth rate: 8%\n        - Main export sectors: Chemicals, Machinery, Textiles\n        - Main import sectors: Agriculture, Energy, Automotive\n        ",
+    "opportunities": "\n        Key opportunities in Germany:\n        1. Growing demand in Chemicals sector\n        2. Favorable trade agreements with Mexico\n        3. Government incentives for export-oriented businesses\n        4. Emerging market segments in urban areas\n        ",
+    "risks": "\n        Potential risks in Germany:\n        1. Political instability\n        2. Competition\n        3. Labor market challenges\n        4. Local competition\n        ",
+    "recommendations": [
+      "Invest in local marketing and branding",
+      "Consider local production facilities",
+      "Adapt products to local market preferences",
+      "Focus on major economic centers in Germany"
+    ]
+  },
+  "Japan": {
+    "title": "Trade Analysis Report - Japan 2023",
+    "executive_summary": "\n        This report provides a comprehensive analysis of trade opportunities in Japan for 2023.\n        The market shows strong growth potential with increasing demand across multiple sectors.\n        Key opportunities include services sector,\n        while challenges include regulatory compliance.\n        ",
+    "market_overview": "\n        Japan's market is characterized by:\n        - GDP: $393B\n        - Population: 57M\n        - Main industries: Technology, Services, Agriculture\n        - Key trading partners: Canada, India, Spain\n        ",
+    "trade_analysis": "\n        Trade analysis for Japan in 2023 shows:\n        - Total trade volume: $152B\n        - Trade balance: $-20B\n        - Growth rate: 7%\n        - Main export sectors: Machinery, Chemicals, Agriculture\n        - Main import sectors: Chemicals, Automotive, Electronics\n        ",
+    "opportunities": "\n        Key opportunities in Japan:\n        1. Growing demand in Chemicals sector\n        2. Favorable trade agreements with Canada\n        3. Government incentives for export-oriented businesses\n        4. Emerging market segments in rural markets\n        ",
+    "risks": "\n        Potential risks in Japan:\n        1. Regulatory changes\n        2. Currency volatility\n        3. Supply chain issues\n        4. Local competition\n        ",
+    "recommendations": [
+      "Adapt products to local market preferences",
+      "Navigate local regulations and compliance",
+      "Consider joint ventures with local companies",
+      "Invest in local marketing and branding"
+    ]
+  },
+  "UK": {
+    "title": "Trade Analysis Report - UK 2023",
+    "executive_summary": "\n        This report provides a comprehensive analysis of trade opportunities in UK for 2023.\n        The market shows strong growth potential with increasing demand across multiple sectors.\n        Key opportunities include manufacturing sector,\n        while challenges include market competition.\n        ",
+    "market_overview": "\n        UK's market is characterized by:\n        - GDP: $493B\n        - Population: 34M\n        - Main industries: Manufacturing, Agriculture, Services\n        - Key trading partners: Italy, Mexico, France\n        ",
+    "trade_analysis": "\n        Trade analysis for UK in 2023 shows:\n        - Total trade volume: $147B\n        - Trade balance: $24B\n        - Growth rate: 15%\n        - Main export sectors: Automotive, Chemicals, Metals\n        - Main import sectors: Textiles, Automotive, Agriculture\n        ",
+    "opportunities": "\n        Key opportunities in UK:\n        1. Growing demand in Textiles sector\n        2. Favorable trade agreements with Turkey\n        3. Government incentives for export-oriented businesses\n        4. Emerging market segments in urban areas\n        ",
+    "risks": "\n        Potential risks in UK:\n        1. Political instability\n        2. Competition\n        3. Supply chain issues\n        4. Local competition\n        ",
+    "recommendations": [
+      "Build relationships with local distributors",
+      "Navigate local regulations and compliance",
+      "Focus on major economic centers in UK",
+      "Consider joint ventures with local companies"
+    ]
+  }
+}
